@@ -1,0 +1,1 @@
+This is a project of gold price prediction based on macro economics in Indonesia for Data Mining subject. We use three types of regression, which are Linear Regression, Ridge Regression, and Lasso Regression.
